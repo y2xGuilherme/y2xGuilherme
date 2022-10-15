@@ -4,7 +4,7 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]()
 
 ![y2x.Guikherme GitHub stats](https://github-readme-stats.vercel.app/api?username=y2xGuilherme&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y2xGuilherme&layout=compact)](https://github.com/y2xGuilherme/github-readme-stats)
 
 ## Linguagens
 
